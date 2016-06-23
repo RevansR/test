@@ -1,3 +1,4 @@
 # test
-i'm new. this is a learning repo.
-i made an edit!!!
+I'm new.
+This is a learning repo.
+I made an edit!!!
